@@ -1,0 +1,95 @@
+title: Insurer Solvency Explained
+subtitle: How insurers stay strong to pay claims
+author: AI Explainer
+created: 2025-08-13
+video:
+  width: 1920
+  height: 1080
+  fps: 30
+style:
+  palette:
+    background: "#0D1B2A"
+    accent: "#00C2FF"
+    text: "#E0E6ED"
+    muted_text: "#B9C4CF"
+  margins:
+    left: 140
+    right: 140
+    top: 160
+    bottom: 120
+  title_font_size: 72
+  bullet_font_size: 44
+slides:
+  - title: Insurer Solvency
+    bullets:
+      - What it means and why it matters
+    duration: 5
+
+  - title: What is solvency?
+    bullets:
+      - Ability to meet obligations as they fall due
+      - Enough capital to absorb unexpected losses
+    duration: 8
+
+  - title: Why it matters
+    bullets:
+      - Protects policyholders and beneficiaries
+      - Supports confidence in long-term promises
+      - Reduces systemic risk and contagion
+    duration: 8
+
+  - title: Regulatory frameworks
+    bullets:
+      - EU: Solvency II (SCR & MCR)
+      - US: Risk-Based Capital (RBC)
+      - Principles: risk sensitivity, transparency, governance
+    duration: 9
+
+  - title: Capital requirements
+    bullets:
+      - Target capital above minimum triggers
+      - SCR/MCR or RBC ratio thresholds
+      - Quality of capital (tiers / own funds)
+    duration: 9
+
+  - title: Major risk types
+    bullets:
+      - Underwriting risk (pricing, reserves, catastrophe)
+      - Market and credit risk (rates, equity, spread, default)
+      - Operational and liquidity risk
+    duration: 10
+
+  - title: ALM and reserves
+    bullets:
+      - Match assets and liabilities by duration and cash flow
+      - Best-estimate liabilities plus prudence where required
+      - Sensitivity to interest rates and inflation
+    duration: 9
+
+  - title: ORSA and governance
+    bullets:
+      - Own Risk and Solvency Assessment (forward-looking)
+      - Stress and scenario testing across the cycle
+      - Risk appetite, limits, controls, culture
+    duration: 10
+
+  - title: Risk transfer and capital tools
+    bullets:
+      - Reinsurance and retrocession
+      - Insurance-linked securities (cat bonds, sidecars)
+      - Capital raising, dividends, and buffers
+    duration: 9
+
+  - title: What to watch
+    bullets:
+      - SCR/RBC ratio trends and headroom to triggers
+      - Reserve adequacy and development
+      - Asset quality, liquidity, and ALM
+      - Reinsurance dependence and counterparty strength
+    duration: 9
+
+  - title: Wrap-up
+    bullets:
+      - Strong capital + disciplined risk management = solvency
+      - Goal: protect policyholders through all conditions
+    duration: 7
